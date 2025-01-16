@@ -1,16 +1,17 @@
 {
-  "name": "jsaqa_3_3",
+  "name": "dz4_puppeeter1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "AAAA",
   "license": "ISC",
-  "dependencies": {
+    "dependencies": {
     "jest": "^27.3.1",
     "jest-puppeteer": "^6.0.0",
-    "puppeteer": "^13.3.2"
-  }
+    "puppeteer": "^13.3.2",
+  "description": ""
 }
+}
+
